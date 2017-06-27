@@ -1,5 +1,5 @@
 # SimpleBar
-A simple Bar chart using D3
+A simple Bar drawing using D3
 This is a practice of using D3 to visualize data following [the tutorial by Curran](https://www.youtube.com/watch?v=8jvoTV54nXw&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb&index=4).
 In this practice, we will learn how to draw
 + shapes
